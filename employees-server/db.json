@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Lopez",
+      "email": "sebastaian.lopez@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Mark",
+      "last_name": "Ruiz",
+      "email": "mark.ruiz@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Alberta",
+      "last_name": "Rio",
+      "email": "alberta.rio@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Andrea",
+      "lasta_name": "Bianchi",
+      "email": "andrea.bianchi@gmail.com"
+    }
+  ]
+}
